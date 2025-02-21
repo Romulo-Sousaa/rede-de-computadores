@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rede-de-computadores/static/css/main.e678f6a9.css",
+    "main.js": "/rede-de-computadores/static/js/main.56f8c49b.js",
+    "static/js/453.6c540022.chunk.js": "/rede-de-computadores/static/js/453.6c540022.chunk.js",
+    "index.html": "/rede-de-computadores/index.html",
+    "main.e678f6a9.css.map": "/rede-de-computadores/static/css/main.e678f6a9.css.map",
+    "main.56f8c49b.js.map": "/rede-de-computadores/static/js/main.56f8c49b.js.map",
+    "453.6c540022.chunk.js.map": "/rede-de-computadores/static/js/453.6c540022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e678f6a9.css",
+    "static/js/main.56f8c49b.js"
+  ]
+}

@@ -1,0 +1,12 @@
+body {
+    background-color: #4682B4;
+}
+
+#main-title {
+    text-align: center;
+    color: white;
+}
+
+.custom-date {
+    color:rgb(255, 255, 255);
+}
